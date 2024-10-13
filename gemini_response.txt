@@ -19,3 +19,9 @@ Result for page_1_region_2.png: The chart compares the budget and expenditure fo
 Result for page_1_region_7.png: The chart shows the population of India, China, and Russia, with India having the highest population at 1.4 billion, followed by China at 1.4 billion, and Russia at 146 million.
 Result for page_1_region_11.png: The chart shows the amount of something in different countries.  India: 150123, China: 123494, Russia: 43948. 
 
+Result for page_1_region_2.png: The chart compares the budget and expenditure for different expense categories: Auto (Budget: $100, Expenditure: $200), Entertainment (Budget: $2000, Expenditure: $2000), Food (Budget: $4000, Expenditure: $1000), Home (Budget: $18000, Expenditure: $18000), Medical (Budget: $0, Expenditure: $0), Personal Items (Budget: $0, Expenditure: $0), Travel (Budget: $0, Expenditure: $1000), Utilities (Budget: $0, Expenditure: $1000). 
+
+Result for page_1_region_7.png: The chart shows the population of the three most populous countries in the world, with India having the highest population (1.4 billion), followed by China (1.4 billion), and then Russia (144 million). 
+
+Result for page_1_region_11.png: The chart shows the amount of something in different countries, with India having 150123, China having 123494, and Russia having 43948. 
+
